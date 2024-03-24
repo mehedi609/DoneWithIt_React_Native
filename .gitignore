@@ -8,6 +8,9 @@ node_modules/
 dist/
 web-build/
 
+#jetbrains
+.idea/*
+
 # Native
 *.orig.*
 *.jks
